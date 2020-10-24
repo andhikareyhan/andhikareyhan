@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey there 👋,
+I am a sophomore currently majoring in Electrical Engineering at Bandung Institute of Technology. I'm looking forward to learning more about programming and expand my skill set. I am interested in learning about Python (and explore just how versatile it is) and big data analysis.
 
+Feel free to visit my linkedin profile : https://www.linkedin.com/in/andhikareyhan/
 <!--
 **andhikareyhan/andhikareyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
